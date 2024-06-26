@@ -33,9 +33,9 @@
 
 | File | Description |
 | :--- | :--- |
-| [get.next_line.c]() | Function where the file is read and the current line is separeted and returned |
-| [get_next_line_utils.c]() | Helper functions from libft |
-| [get_next_line.h]() | Header file |
+| [get.next_line.c](https://github.com/cde-paiv/getnextline/blob/main/get_next_line.c) | Function where the file is read and the current line is separeted and returned |
+| [get_next_line_utils.c](https://github.com/cde-paiv/getnextline/blob/main/get_next_line_utils.c) | Helper functions from libft |
+| [get_next_line.h](https://github.com/cde-paiv/getnextline/blob/main/get_next_line.h) | Header file |
 
 <h3 align=left>
     Bonus
@@ -46,8 +46,8 @@
 
 | File | Description |
 | :--- | :--- |
-| [get.next_line_bonus.c]() | Function where the file is read and the current line is separeted and returned |
-| [get_next_line_utils_bonus.c]() | Helper functions from libft |
-| [get_next_line_bonus.h]() | Header file |
+| [get.next_line_bonus.c](https://github.com/cde-paiv/getnextline/blob/main/get_next_line_bonus.c) | Function where the file is read and the current line is separeted and returned |
+| [get_next_line_utils_bonus.c](https://github.com/cde-paiv/getnextline/blob/main/get_next_line_utils_bonus.c) | Helper functions from libft |
+| [get_next_line_bonus.h](https://github.com/cde-paiv/getnextline/blob/main/get_next_line_bonus.h) | Header file |
 
 ---
